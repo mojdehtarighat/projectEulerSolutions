@@ -1,4 +1,4 @@
 projectEulerSolutions
 =====================
 
-Project Solutions
+Practicing Python using Project Euler problems.
