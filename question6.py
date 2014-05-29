@@ -19,3 +19,4 @@ for x in range(1,101):
     num_2=num_2+x
 
 print num_2**2-num_1
+
